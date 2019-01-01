@@ -1,7 +1,8 @@
 # Client Guidelines
 
-- [Media Guidelines](media.md)
-- [TLS Guidelines](tls-guidelines.md)
+- [Interface](interface.md)
+- [Media](media.md)
+- [TLS](tls-guidelines.md)
 
 ### External
 
