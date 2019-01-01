@@ -4,7 +4,8 @@ Media is a central part of communication. The ability to integrate other
 services into your communication is essential, whether it's showing stars and
 forks on a GitHub repository, likes on a Facebook post, or even just a normal
 image, having those simple additions to make links more convenient at a glance
-is something showing up in more and more forms of communication.
+helps users comprehend information without having a visual disruption like
+launching a new tab or a new browser session.
 
 Old versions of IRC were designed to be text-only, sharing links to a third
 party platform which had the media. This is a perfectly good solution, but
