@@ -1,6 +1,6 @@
 # Client Guidelines
 
-- [Images](images.md)
+- [Media Guidelines](media.md)
 - [TLS Guidelines](tls-guidelines.md)
 
 ### External
