@@ -1,3 +1,11 @@
+---
+title: Media Guidelines
+copyrights:
+  -
+    name: "Ryan Heywood"
+    email: "ryan@hashbang.sh"
+---
+
 # Media Guidelines
 
 Media is a central part of communication. The ability to integrate other

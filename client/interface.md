@@ -1,3 +1,11 @@
+---
+title: Interface Guidelines
+copyrights:
+  -
+    name: "Ryan Heywood"
+    email: "ryan@hashbang.sh"
+---
+
 # Interface Guidelines
 
 IRC was designed in a time where programs worked on a mostly text based

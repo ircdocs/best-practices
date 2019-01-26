@@ -1,3 +1,11 @@
+---
+title: TLS Guidelines
+copyrights:
+  -
+    name: "Ryan Heywood"
+    email: "ryan@hashbang.sh"
+---
+
 # Overall TLS Guidelines
 
 Many IRC networks offer TLS connectivity on the now-standardized port 6697,
